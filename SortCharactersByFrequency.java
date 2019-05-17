@@ -30,6 +30,6 @@ public class SortCharactersByFrequency {
 
     public static void main(String[] args) {
         SortCharactersByFrequency scf = new SortCharactersByFrequency();
-        System.out.println(scf.sortByFreq("cccaaa"));
+        System.out.println(scf.sortByFreq("cccaa"));
     }
 }
