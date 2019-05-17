@@ -1,3 +1,4 @@
+//given an array containing only 0,1,2 , sort them in O(n)
 public class Sorting012 {
     public void sort(int[] arr) {
         int i = 0, j = 0, k = arr.length - 1;
